@@ -1,0 +1,18 @@
+Package: jeddy
+Version: 1.0
+Architecture: all
+Maintainer: root <root@hacker-ThinkPad-W520>
+Installed-Size: 26
+Depends: jed, jed-extra
+Filename: ./jeddy_1.0_all.deb
+Size: 2074
+MD5sum: 7e8bfa9e65b9c6f1ee21202aa2cd49c3
+SHA1: b7a6308b44856d04820c935e347049463c560e29
+SHA256: 0595b4540c01a67bc1d3e6211558174e8e9d143a4915418c704d1e281b42e320
+Section: misc
+Priority: optional
+Description: This meta-package was generated via the metapackage chef cookbook
+ long description and info
+ .
+ second paragraph
+
